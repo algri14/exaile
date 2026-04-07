@@ -762,7 +762,7 @@ class CoverWidget(Gtk.EventBox):
             if not cover_data:
                 return
 
-            GLib.idle_add(self.on_cover_chosen, None, cover_data)
+            GLib.idle_add(self.on_cover_chosen, None, track, cover_data)
 
     def on_quit_application(self, type, exaile, nothing):
         """
