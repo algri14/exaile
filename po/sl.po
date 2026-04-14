@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: exaile\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-21 14:03+1100\n"
-"PO-Revision-Date: 2026-04-09 15:09+0000\n"
+"PO-Revision-Date: 2026-04-14 14:09+0000\n"
 "Last-Translator: Robert Hrovat <robi74@gmail.com>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/exaile/master/"
 "sl/>\n"
@@ -2141,7 +2141,7 @@ msgstr "_Prekliči"
 
 #: ../data/ui/collection_manager.ui:71
 msgid "_Apply"
-msgstr "_Nastavi BPM"
+msgstr "_Nastavi"
 
 #: ../data/ui/collection_manager.ui:131
 msgid "Monitored"
