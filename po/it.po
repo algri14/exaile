@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: exaile\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-21 14:03+1100\n"
-"PO-Revision-Date: 2020-12-23 13:29+0000\n"
-"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/exaile/master/it/"
-">\n"
+"PO-Revision-Date: 2026-06-03 05:01+0000\n"
+"Last-Translator: Alessandro Levati <8av10s@tiscali.it>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/exaile/master/"
+"it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.1-dev\n"
+"X-Generator: Weblate 2026.6\n"
 "X-Launchpad-Export-Date: 2014-08-12 06:26+0000\n"
 
 #: ../xl/covers.py:523 ../data/ui/trackproperties_dialog.ui:183
@@ -711,7 +711,7 @@ msgstr "Dinamica per _artisti simili"
 
 #: ../xl/plugins.py:85
 msgid "Plugin is already loaded or has a conflicting name."
-msgstr ""
+msgstr "Il plugin è già stato caricato o ha il nome in conflitto."
 
 #: ../xl/plugins.py:100
 msgid "Plugin archive is not in the correct format."
@@ -877,7 +877,7 @@ msgstr "{width}x{height} pixel"
 
 #: ../xlgui/cover.py:929
 msgid "Save File"
-msgstr ""
+msgstr "Salva file"
 
 #: ../xlgui/cover.py:1027
 #, python-format
@@ -914,7 +914,7 @@ msgstr "Accede all'attuale scaletta"
 
 #: ../xlgui/main.py:153
 msgid "Save currently selected playlist under a custom name"
-msgstr ""
+msgstr "Salva la playlist attualmente selezionata con un nome personalizzato"
 
 #: ../xlgui/main.py:158
 msgid "Focus filter in currently focused panel"
@@ -936,11 +936,11 @@ msgstr "Avvia, ferma o riprende la riproduzione"
 
 #: ../xlgui/main.py:178
 msgid "Seek to the right"
-msgstr ""
+msgstr "Cerca a destra"
 
 #: ../xlgui/main.py:183
 msgid "Seek to the left"
-msgstr ""
+msgstr "Cerca a sinistra"
 
 #: ../xlgui/main.py:188 ../xlgui/main.py:193
 #, fuzzy
@@ -962,7 +962,7 @@ msgstr "Vai alla traccia precedente"
 
 #: ../xlgui/main.py:202
 msgid "Switch to next tab"
-msgstr ""
+msgstr "Passa alla scheda successiva"
 
 #: ../xlgui/main.py:205
 msgid "Focus the playlist container"
@@ -1157,7 +1157,7 @@ msgstr "Nuova scansione della collezione"
 
 #: ../xlgui/menu.py:405
 msgid "User's Guide (website)"
-msgstr ""
+msgstr "Guida dell'utente (sito web)"
 
 #: ../xlgui/menu.py:408 ../data/ui/shortcuts_dialog.ui:21
 #, fuzzy
@@ -1167,11 +1167,11 @@ msgstr "Scorciatoia"
 
 #: ../xlgui/menu.py:415
 msgid "Report an issue (GitHub)"
-msgstr ""
+msgstr "Segnala un problema (GitHub)"
 
 #: ../xlgui/menu.py:421
 msgid "Open error logs"
-msgstr ""
+msgstr "Apri log degli errori"
 
 #: ../xlgui/menu.py:425
 msgid "_About"
@@ -1379,7 +1379,7 @@ msgstr "Nuova scaletta"
 
 #: ../xlgui/panels.py:97
 msgid "P_anels"
-msgstr ""
+msgstr "P_annelli"
 
 #: ../xlgui/playlist_container.py:71
 msgid "Drop here to create a new playlist"
@@ -1432,7 +1432,7 @@ msgstr "Aspetto"
 
 #: ../xlgui/preferences/appearance.py:118
 msgid "Tray icons are not supported on your platform"
-msgstr ""
+msgstr "Le icone nell'area di notifica non funzionano sulla tua piattaforma"
 
 #. TRANSLATORS: Grammatical articles that are ignored while sorting the
 #. collection panel. For example, in French locales this could be
@@ -1451,11 +1451,11 @@ msgstr "Reimposta valori predefiniti"
 
 #: ../xlgui/preferences/collection.py:130
 msgid "Migrating ratings to audio file metadata"
-msgstr ""
+msgstr "Migrazione delle valutazioni nei metadati dei file audio"
 
 #: ../xlgui/preferences/collection.py:195
 msgid "Migrating metadata"
-msgstr ""
+msgstr "Migrazione dei metadati"
 
 #: ../xlgui/preferences/cover.py:31 ../plugins/amazoncovers/PLUGININFO:5
 #: ../plugins/lastfmcovers/PLUGININFO:5
@@ -1489,7 +1489,7 @@ msgstr[1] "Plugin non funzionanti: %s"
 
 #: ../xlgui/preferences/plugin.py:239
 msgid "Do you really want to remove this plugin?"
-msgstr ""
+msgstr "Vuoi davvero eliminare questo plugin?"
 
 #: ../xlgui/preferences/plugin.py:249
 #, fuzzy
@@ -1520,11 +1520,11 @@ msgstr "Tutti i Files"
 
 #: ../xlgui/preferences/plugin.py:321
 msgid "Plugin already exists!"
-msgstr ""
+msgstr "Plugin già esistente!"
 
 #: ../xlgui/preferences/plugin.py:322
 msgid "Do you want to override it?"
-msgstr ""
+msgstr "Vuoi sovrascriverlo?"
 
 #: ../xlgui/preferences/plugin.py:330
 msgid "Plugin file installation failed!"
@@ -1745,7 +1745,7 @@ msgstr "Non è stato inserito alcun nome per la scaletta"
 
 #: ../xlgui/widgets/dialogs.py:1787
 msgid "Save As"
-msgstr ""
+msgstr "Salva come"
 
 #: ../xlgui/widgets/dialogs.py:1856
 #, python-format
@@ -1969,7 +1969,7 @@ msgstr "Casualizza la selezione"
 
 #: ../xlgui/widgets/playlist.py:224 ../data/ui/trackproperties_dialog.ui:298
 msgid "_Save"
-msgstr ""
+msgstr "_Salva"
 
 #: ../xlgui/widgets/playlist.py:237 ../data/ui/coverwindow.ui:26
 msgid "Save _As"
@@ -2235,7 +2235,7 @@ msgstr "Informazioni su Exaile"
 
 #: ../data/ui/about_dialog.ui:13
 msgid "© 2009–2020 Various Contributors"
-msgstr ""
+msgstr "© 2009–2020 Diversi Contributori"
 
 #. TRANSLATORS: Add your own name here. Separate translator names with newlines.
 #: ../data/ui/about_dialog.ui:26
@@ -2254,8 +2254,9 @@ msgid "_Cancel"
 msgstr "Annulla"
 
 #: ../data/ui/collection_manager.ui:71
+#, fuzzy
 msgid "_Apply"
-msgstr ""
+msgstr "_Applica"
 
 #: ../data/ui/collection_manager.ui:131
 msgid "Monitored"
@@ -2263,11 +2264,12 @@ msgstr "Monitorato"
 
 #: ../data/ui/collection_manager.ui:144
 msgid "Scan At Startup"
-msgstr ""
+msgstr "Scansione all'avvio"
 
 #: ../data/ui/collection_manager.ui:174
+#, fuzzy
 msgid "Add _Folder"
-msgstr ""
+msgstr "Aggiungi cartella"
 
 #: ../data/ui/collection_manager.ui:191
 #, fuzzy
@@ -2290,8 +2292,9 @@ msgid "The origin of this cover"
 msgstr "L'origine di questa copertina"
 
 #: ../data/ui/coverchooser.ui:159
+#, fuzzy
 msgid "_Abort"
-msgstr ""
+msgstr "Interrompi"
 
 #: ../data/ui/coverchooser.ui:177
 msgid "_Set as Cover"
@@ -2316,12 +2319,14 @@ msgid "_Fetch Covers"
 msgstr "_Recupera copertine"
 
 #: ../data/ui/coverwindow.ui:40
+#, fuzzy
 msgid "Zoom _In"
-msgstr ""
+msgstr "Zoom avanti"
 
 #: ../data/ui/coverwindow.ui:54
+#, fuzzy
 msgid "Zoom _Out"
-msgstr ""
+msgstr "Zoom indietro"
 
 #: ../data/ui/coverwindow.ui:68
 #, fuzzy
@@ -2350,8 +2355,9 @@ msgid "Driver"
 msgstr "Driver"
 
 #: ../data/ui/device_manager.ui:115
+#, fuzzy
 msgid "_Connect"
-msgstr ""
+msgstr "_Connetti"
 
 #: ../data/ui/device_manager.ui:133
 #, fuzzy
@@ -2497,7 +2503,7 @@ msgstr "L'area informazioni contiene la copertina e informazioni sulla traccia"
 
 #: ../data/ui/preferences/appearance.ui:68
 msgid "Show cover art in info area"
-msgstr ""
+msgstr "Mostra immagine di copertina nell'area informazioni"
 
 #: ../data/ui/preferences/appearance.ui:83
 msgid "Always show tab bar"
@@ -2509,7 +2515,7 @@ msgstr "Posizione schede:"
 
 #: ../data/ui/preferences/appearance.ui:141
 msgid "Playlist font:"
-msgstr ""
+msgstr "Carattere per playlist:"
 
 #: ../data/ui/preferences/appearance.ui:154
 #, fuzzy
@@ -2520,7 +2526,7 @@ msgstr "Mai"
 #: ../data/ui/preferences/appearance.ui:158 ../data/ui/preferences/lyrics.ui:47
 #: ../plugins/grouptagger/gt_prefs.ui:67
 msgid "Reset to the system font"
-msgstr ""
+msgstr "Reimposta al carattere di sistema"
 
 #: ../data/ui/preferences/appearance.ui:196
 #: ../data/ui/preferences/appearance.ui:385
@@ -2575,14 +2581,20 @@ msgid ""
 "href=\"https://extensions.gnome.org/extension/495/topicons/\">\"TopIcons\" "
 "extension</a> (or a similar one) installed."
 msgstr ""
+"Le icone nell'area di notifica non sono supportate su alcune piattaforme, "
+"soprattutto su Wayland. Su GNOME Shell 3.26+ su Xorg, le icone dell'area di "
+"notifica funzionano solo se si dispone dell'estensione <a href=\"https://"
+"extensions.gnome.org/extension/495/topicons/\">\"TopIcons\"</a> (o simile) "
+"installata."
 
 #: ../data/ui/preferences/appearance.ui:343
+#, fuzzy
 msgid "Note:"
-msgstr ""
+msgstr "Nota:"
 
 #: ../data/ui/preferences/appearance.ui:355
 msgid "Prefer dark theme"
-msgstr ""
+msgstr "Preferisci tema scuro"
 
 #. TRANSLATORS: "Checked" here refers to checkbox state.
 #: ../data/ui/preferences/appearance.ui:359
@@ -2590,16 +2602,21 @@ msgid ""
 "If not checked, will not specify a preference to GTK. May not work on some "
 "platforms."
 msgstr ""
+"Se non contrassegnato, non specifica una preferenza a GTK. Può non "
+"funzionare su alcune piattaforme."
 
 #: ../data/ui/preferences/appearance.ui:370
+#, fuzzy
 msgid "Show Status Bar"
-msgstr ""
+msgstr "Mostra barra di stato"
 
 #: ../data/ui/preferences/appearance.ui:374
 msgid ""
 "Show or hide the status bar. The status bar will always be shown if a plugin "
 "requests it."
 msgstr ""
+"Mostra o nasconde la barra di stato. La barra di stato sarà sempre mostrata "
+"se un plugin lo richiede."
 
 #: ../data/ui/preferences/appearance.ui:399
 #, fuzzy
@@ -2633,7 +2650,7 @@ msgstr "Utilizzare la ricerca delle raccolte basata su file"
 
 #: ../data/ui/preferences/collection.ui:72
 msgid "Read and write ratings additionally in audio file metadata"
-msgstr ""
+msgstr "Leggi e scrivi valutazioni anche nei metadati dei file audio"
 
 #: ../data/ui/preferences/collection.ui:87
 msgid ""
@@ -2641,10 +2658,13 @@ msgid ""
 "metadata additionally to database, if possible.\n"
 "This feature should work for MP3, MP4, FLAC and OGG. "
 msgstr ""
+"Utilizzare questa funzione sperimentale per leggere e scrivere valutazioni "
+"nei metadati di file audio anche nel database, se possibile.\n"
+"Questa funzione dovrebbe funzionare per MP3, MP4, FLAC e OGG. "
 
 #: ../data/ui/preferences/collection.ui:105
 msgid "Use e-mail for Popularimeter (MP3 only):"
-msgstr ""
+msgstr "Utilizza e-mail per Popularimeter (solo MP3):"
 
 #: ../data/ui/preferences/collection.ui:131
 msgid "Write existing ratings to track files now"
@@ -2704,7 +2724,7 @@ msgstr "Usare copertine incorporate nelle etichette"
 
 #: ../data/ui/preferences/lyrics.ui:15
 msgid "Lyrics font:"
-msgstr ""
+msgstr "Carattere per i testi:"
 
 #: ../data/ui/preferences/playback.ui:32
 #: ../plugins/previewdevice/previewprefs.ui:27
@@ -2730,8 +2750,9 @@ msgid "Custom sink pipeline:"
 msgstr "Flusso sink personalizzato:"
 
 #: ../data/ui/preferences/playback.ui:160
+#, fuzzy
 msgid "Show hidden devices"
-msgstr ""
+msgstr "Mostra dispositivi nascosti"
 
 #: ../data/ui/preferences/playback.ui:176
 msgid "Resume playback on start"
@@ -2742,44 +2763,51 @@ msgid "Resume playback in paused state"
 msgstr "Riprendi esecuzione in pausa"
 
 #: ../data/ui/preferences/playback.ui:207
+#, fuzzy
 msgid "Adding an item to an empty queue begins playback"
-msgstr ""
+msgstr "Aggiungere un elemento a una coda vuota inizia la riproduzione"
 
 #: ../data/ui/preferences/playback.ui:222
 #: ../plugins/quickbuttons/__init__.py:56
 #: ../plugins/quickbuttons/qb_prefs.ui:42
+#, fuzzy
 msgid "Remove track from queue upon playback"
-msgstr ""
+msgstr "Rimuovere la traccia dalla coda dopo la riproduzione"
 
 #: ../data/ui/preferences/playback.ui:237
+#, fuzzy
 msgid "Remove track from queue after playback"
-msgstr ""
+msgstr "Rimuovere la traccia dalla coda dopo la riproduzione"
 
 #: ../data/ui/preferences/playback.ui:252
 #: ../plugins/quickbuttons/__init__.py:47
 #: ../plugins/quickbuttons/qb_prefs.ui:27
 msgid "Disallow playing new tracks when another track is playing"
 msgstr ""
+"Non permettere la riproduzione di nuove tracce quando un'altra traccia è in "
+"riproduzione"
 
 #: ../data/ui/preferences/playback.ui:256
 msgid ""
 "If a track is currently playing, do not allow new tracks to be started, "
 "except when clicking the playback controls"
 msgstr ""
+"Se una traccia è in riproduzione, non consentire l'avvio di nuove tracce, "
+"tranne quando si fa clic sui controlli di riproduzione"
 
 #: ../data/ui/preferences/playback.ui:268
 #: ../plugins/quickbuttons/__init__.py:65
 #: ../plugins/quickbuttons/qb_prefs.ui:57
 msgid "Automatically advance to the next track"
-msgstr ""
+msgstr "Avanza automaticamente alla traccia successiva"
 
 #: ../data/ui/preferences/playback.ui:285
 msgid "Delay between tracks (ms):"
-msgstr ""
+msgstr "Pausa tra tracce (ms):"
 
 #: ../data/ui/preferences/playback.ui:299
 msgid "Only works when crossfading not enabled"
-msgstr ""
+msgstr "Funziona solo quando la dissolvenza incrociata non è abilitata"
 
 #: ../data/ui/preferences/playback.ui:331
 msgid "Crossfade duration (ms):"
@@ -2792,7 +2820,7 @@ msgstr "Usare dissolvenza incrociata (sperimentale)"
 
 #: ../data/ui/preferences/playback.ui:347
 msgid "Forces automatically advancing to the next track"
-msgstr ""
+msgstr "Forza avanzamento automatico alla traccia successiva"
 
 #: ../data/ui/preferences/playback.ui:377
 msgid "Fade duration (ms):"
@@ -2809,15 +2837,15 @@ msgid "Playback engine: "
 msgstr "Motore per la riproduzione: "
 
 #: ../data/ui/preferences/playback.ui:440
-#, fuzzy
-#| msgid "Repeat playback"
 msgid "Enable gapless playback"
-msgstr "Ripeti la riproduzione"
+msgstr "Abilita riproduzione senza interruzioni"
 
 #: ../data/ui/preferences/playback.ui:444
 msgid ""
 "Gapless playback means to play tracks without inserting silence between them."
 msgstr ""
+"Riproduzione senza interruzioni significa che le tracce vengono riprodotte "
+"senza inserire una pausa tra loro."
 
 #: ../data/ui/preferences/playlists.ui:12
 msgid "Open last playlists on startup"
@@ -2825,7 +2853,7 @@ msgstr "Aprire le ultime scalette all'avvio"
 
 #: ../data/ui/preferences/playlists.ui:25
 msgid "Prompt for saving custom playlists on close"
-msgstr "Chiedere se salvare le scalette personalizzate alla chiusura"
+msgstr "Chiedi se salvare le scalette personalizzate alla chiusura"
 
 #: ../data/ui/preferences/playlists.ui:38
 msgid "Replace content on side pane double click"
@@ -2854,13 +2882,15 @@ msgstr ""
 #: ../plugins/quickbuttons/__init__.py:38
 #: ../plugins/quickbuttons/qb_prefs.ui:12
 msgid "Queue tracks by default instead of playing them"
-msgstr ""
+msgstr "Accoda le tracce per impostazione predefinita invece di riprodurle"
 
 #: ../data/ui/preferences/playlists.ui:70
 msgid ""
 "When you double click or press enter to play a track in a playlist, queue "
 "the track instead of playing it"
 msgstr ""
+"Quando fai doppio clic o premi Invio per riprodurre una traccia in una "
+"playlist, la traccia viene accodata invece di riprodurla"
 
 #: ../data/ui/preferences/plugin.ui:66
 msgid "Plugin"
@@ -2868,7 +2898,7 @@ msgstr "Plugin"
 
 #: ../data/ui/preferences/plugin.ui:78
 msgid "Status"
-msgstr ""
+msgstr "Stato"
 
 #: ../data/ui/preferences/plugin.ui:90
 #: ../data/ui/preferences/widgets/selection_list_preference.ui:38
@@ -2877,29 +2907,24 @@ msgid "Enabled"
 msgstr "Attivato"
 
 #: ../data/ui/preferences/plugin.ui:112
-#, fuzzy
 msgid "Show incompatible plugins"
-msgstr "Impossibile disabilitare il plugin!"
+msgstr "Mostra plugin incompatibili"
 
 #: ../data/ui/preferences/plugin.ui:130
 msgid "No Plugin Selected"
 msgstr "Nessun plugin selezionato"
 
 #: ../data/ui/preferences/plugin.ui:179
-#, fuzzy
-#| msgid "Install Plugin File"
 msgid "Add _Plugin File"
-msgstr "Installa il plugin"
+msgstr "Aggiungi file del plugin"
 
 #: ../data/ui/preferences/preferences_dialog.ui:24
 msgid "Preferences"
 msgstr "Preferenze"
 
 #: ../data/ui/shortcuts_dialog.ui:90
-#, fuzzy
-#| msgid "Description:"
 msgid "Description"
-msgstr "Descrizione:"
+msgstr "Descrizione"
 
 #: ../data/ui/trackproperties_dialog.ui:37
 msgid "Track Properties"
@@ -2919,7 +2944,7 @@ msgstr ""
 
 #: ../data/ui/trackproperties_dialog.ui:131
 msgid "Uppercase first letter of all tags"
-msgstr "La prima lettera di tutti le etichette in maiuscolo"
+msgstr "Prima lettera di tutte le etichette in maiuscolo"
 
 #: ../data/ui/trackproperties_dialog.ui:228
 #, fuzzy
@@ -3038,11 +3063,12 @@ msgstr "Aggiungi"
 #. This is a check box in the Add Smart Playlist dialog. If checked, a numeric text entry becomes active and it specifies a limit on the number of tracks the resulting playlist contains.
 #: ../data/ui/widgets/filter_dialog.ui:194
 msgid "Maximum number of tracks:"
-msgstr ""
+msgstr "Numero massimo di tracce:"
 
 #: ../data/ui/widgets/info_dialog.ui:20
+#, fuzzy
 msgid "Don't show this message again"
-msgstr ""
+msgstr "Non mostrare di nuovo questo messaggio"
 
 #: ../data/ui/widgets/info_dialog.ui:79
 msgid ""
@@ -3120,11 +3146,11 @@ msgstr "AudioScrobbler"
 
 #: ../plugins/audioscrobbler/asprefs.py:111
 msgid "Verification successful"
-msgstr ""
+msgstr "Verifica completata"
 
 #: ../plugins/audioscrobbler/asprefs.py:115
 msgid "Verification failed"
-msgstr ""
+msgstr "Verifica non riuscita"
 
 #: ../plugins/audioscrobbler/asprefs.py:116
 #: ../plugins/lastfmlove/lastfmlove_preferences.py:80
@@ -3157,22 +3183,22 @@ msgstr "Segnalibri"
 
 #: ../plugins/bpm/__init__.py:67 ../plugins/bpm/__init__.py:213
 msgid "Autodetect BPM"
-msgstr ""
+msgstr "Rileva automaticamente BPM"
 
 #: ../plugins/bpm/__init__.py:137
 #, python-format
 msgid "Set BPM of %d on %s?"
-msgstr ""
+msgstr "Imposta BPM di %d su %s?"
 
 #: ../plugins/bpm/__init__.py:191 ../plugins/bpm/bpm_prefs.py:5
 #: ../plugins/bpm/bpm.ui:59 ../plugins/bpm/PLUGININFO:3
+#, fuzzy
 msgid "BPM Counter"
-msgstr ""
+msgstr "Contatore BPM"
 
 #: ../plugins/bpm/__init__.py:342 ../plugins/bpm/bpm.ui:31
-#, fuzzy
 msgid "Update"
-msgstr "Aggiornamenti"
+msgstr "Aggiorna"
 
 #: ../plugins/cd/__init__.py:163 ../plugins/cd/__init__.py:267
 msgid "Audio Disc"
@@ -3214,15 +3240,17 @@ msgstr "Numero di riproduzioni"
 
 #: ../plugins/customcollectionorders/cco_prefs.py:10
 msgid "Custom Collections"
-msgstr ""
+msgstr "Raccolte personalizzate"
 
 #: ../plugins/customcollectionorders/cco_prefs.py:85
+#, fuzzy
 msgid "Really delete this order?"
-msgstr ""
+msgstr "Eliminare davvero questo ordine?"
 
 #: ../plugins/customcollectionorders/cco_prefs.py:98
+#, fuzzy
 msgid "Add or edit custom order"
-msgstr ""
+msgstr "Aggiungere o modificare l'ordine personalizzato"
 
 #: ../plugins/customcollectionorders/cco_prefs.py:110
 msgid ""
@@ -3230,6 +3258,9 @@ msgid ""
 "it's not possible to use more than one tag per node.\n"
 "Every tag can be used."
 msgstr ""
+"Elenco di etichette separate da virgole da usare come nodi nella vista ad "
+"albero. Al momento non è possibile usare più di un'etichetta per nodo.\n"
+"Ogni etichetta può essere usata."
 
 #: ../plugins/customcollectionorders/cco_prefs.py:114
 msgid ""
@@ -3237,14 +3268,20 @@ msgid ""
 "leaves in the tree. Tags are joined with a hyphen.\n"
 "Every tag can be used."
 msgstr ""
+"Elenco di etichette separate da virgole da usare per mostrare le singole "
+"tracce come foglie nella vista ad albero. Le etichette sono unite da un "
+"trattino.\n"
+"Ogni etichetta può essere usata."
 
 #: ../plugins/customcollectionorders/cco_prefs.py:118
+#, fuzzy
 msgid "Name of your order"
-msgstr ""
+msgstr "Nome del tuo ordine"
 
 #: ../plugins/customcollectionorders/cco_prefs.py:119
+#, fuzzy
 msgid "Tree Levels:"
-msgstr ""
+msgstr "Livelli albero:"
 
 #: ../plugins/customcollectionorders/cco_prefs.py:120
 msgid "Display:"
@@ -3254,7 +3291,7 @@ msgstr ""
 #: ../plugins/history/__init__.py:247
 #: ../plugins/history/history_preferences.py:34
 msgid "History"
-msgstr ""
+msgstr "Cronologia"
 
 #: ../plugins/daapclient/__init__.py:271
 msgid "Manually..."
@@ -3308,8 +3345,9 @@ msgid "Desktop Cover"
 msgstr "Desktop Cover"
 
 #: ../plugins/developer/__init__.py:62
+#, fuzzy
 msgid "Developer Tools"
-msgstr ""
+msgstr "Strumenti di Sviluppo"
 
 #: ../plugins/equalizer/__init__.py:353
 #, fuzzy
@@ -3373,47 +3411,44 @@ msgstr ""
 
 #: ../plugins/grouptagger/gt_export.py:54
 msgid "Export tags to JSON"
-msgstr ""
+msgstr "Esporta etichette in JSON"
 
 #: ../plugins/grouptagger/gt_import.py:58
-#, fuzzy
 msgid "Importing tracks"
-msgstr "Importazione CD..."
+msgstr "Importazione tracce"
 
 #: ../plugins/grouptagger/gt_import.py:86
-#, fuzzy
 msgid "Importing groups"
-msgstr "Importazione CD..."
+msgstr "Importazione gruppi"
 
 #: ../plugins/grouptagger/gt_import.py:178
 msgid "Updating groups"
-msgstr ""
+msgstr "Aggiornamento gruppi"
 
 #: ../plugins/grouptagger/gt_import.py:265
 msgid "Select directory to import grouping tags from"
-msgstr ""
+msgstr "Selezionare la directory da cui importare tag di raggruppamento"
 
 #: ../plugins/grouptagger/gt_mass.py:117
-#, fuzzy, python-brace-format
-#| msgid "0 tracks found"
+#, python-brace-format
 msgid "{amount} track found"
 msgid_plural "{amount} tracks found"
-msgstr[0] "0 traccia trovata"
-msgstr[1] "0 traccia trovata"
+msgstr[0] "{amount} traccia trovata"
+msgstr[1] "{amount} tracce trovate"
 
 #: ../plugins/grouptagger/gt_mass.py:130
 #, python-brace-format
 msgid "Replace '{old_tag}' with '{new_tag}' on {amount} track?"
 msgid_plural "Replace '{old_tag}' with '{new_tag}' on {amount} tracks?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sostituire '{old_tag}' con '{new_tag}' su {amount} traccia?"
+msgstr[1] "Sostituire '{old_tag}' con '{new_tag}' su {amount} tracce?"
 
 #: ../plugins/grouptagger/gt_mass.py:140
 #, python-brace-format
 msgid "Delete '{tag}' from {amount} track?"
 msgid_plural "Delete '{tag}' from {amount} tracks?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Cancellare '{tag}' da {amount} traccia?"
+msgstr[1] "Cancellare '{tag}' da {amount} tracce?"
 
 #: ../plugins/grouptagger/gt_mass.py:166
 msgid ""
@@ -3428,11 +3463,12 @@ msgstr ""
 #: ../plugins/grouptagger/gt_widgets.py:73
 #, python-format
 msgid "Show tracks tagged with \"%s\""
-msgstr ""
+msgstr "Mostra tracce etichettate con \"%s\""
 
 #: ../plugins/grouptagger/gt_widgets.py:75
+#, fuzzy
 msgid "Show tracks with all selected"
-msgstr ""
+msgstr "Mostra le tracce con tutti i selezionati"
 
 #: ../plugins/grouptagger/gt_widgets.py:153
 msgid "Tag"
@@ -3450,11 +3486,11 @@ msgstr "Elimina"
 
 #: ../plugins/grouptagger/gt_widgets.py:185
 msgid "Add new category"
-msgstr ""
+msgstr "Aggiungi categoria"
 
 #: ../plugins/grouptagger/gt_widgets.py:193
 msgid "Remove category"
-msgstr ""
+msgstr "Elimina categoria"
 
 #: ../plugins/grouptagger/gt_widgets.py:208
 msgid "Show tracks with selected (custom)"
@@ -3470,15 +3506,16 @@ msgstr ""
 
 #: ../plugins/grouptagger/gt_widgets.py:338
 msgid "New Category?"
-msgstr ""
+msgstr "Nuova categoria?"
 
 #: ../plugins/grouptagger/gt_widgets.py:338
 msgid "Enter new category name"
-msgstr ""
+msgstr "Inserisci il nome della nuova categoria"
 
 #: ../plugins/grouptagger/gt_widgets.py:554
+#, fuzzy
 msgid "Add Tag"
-msgstr ""
+msgstr "Aggiungi etichetta"
 
 #: ../plugins/grouptagger/gt_widgets.py:706
 #: ../plugins/grouptagger/gt_widgets.py:810
